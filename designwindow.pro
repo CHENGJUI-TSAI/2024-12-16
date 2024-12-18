@@ -22,3 +22,7 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 FORMS += \
     mainwindow.ui
+
+RESOURCES += \
+    icones.qrc \
+    icones.qrc
