@@ -5,4 +5,4 @@
 3. **分支管理**：清晰的分支管理流程，確保開發過程順暢。  
 
 ## 專案截圖  
-![Mainwindow 截圖](./README_photos/mainwindow_ui.png)
+![Image text] RANDME畫面.png
