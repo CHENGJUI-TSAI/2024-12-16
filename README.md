@@ -1,3 +1,8 @@
-# mainwindow
-## Initial branch -->main
-## branching to 1131216
+# 2024-12-16 homework 專案
+## 功能說明  
+1. **使用者介面**：提供乾淨且互動性高的主視窗。  
+2. **圖示設計**：內建多種操作圖示，如：*儲存*、*開啟*、*複製* 和 *復原* 等功能。  
+3. **分支管理**：清晰的分支管理流程，確保開發過程順暢。  
+
+## 專案截圖  
+![Mainwindow 截圖](./README_photos/mainwindow_ui.png)
