@@ -5,4 +5,4 @@
 3. **分支管理**：清晰的分支管理流程，確保開發過程順暢。  
 
 ## 專案截圖  
-![Image text] https://github.com/CHENGJUI-TSAI/2024-12-16/blob/9030a87bb6cb8924a8786a7d6ffa78e39ed27ade/RANDME%E7%95%AB%E9%9D%A2.png
+![Image text] (https://github.com/CHENGJUI-TSAI/2024-12-16/blob/9030a87bb6cb8924a8786a7d6ffa78e39ed27ade/RANDME%E7%95%AB%E9%9D%A2.png)
